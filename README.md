@@ -2,6 +2,8 @@
 
 A simple version of PACMAN
 
+![pacman-demo](demo.jpg)
+
 ## Key-bind:
 - move left: `←`
 - move right: `→`
