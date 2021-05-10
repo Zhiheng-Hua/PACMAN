@@ -2,7 +2,7 @@
 
 A simple version of PACMAN
 
-![pacman-demo](demo.jpg){:height="50%" width="50%"}
+<img src="demo.jpg" height="50%" width="50%">
 
 ## Key-bind:
 - move left: `←`
