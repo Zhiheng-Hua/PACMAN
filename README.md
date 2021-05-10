@@ -14,4 +14,3 @@ A simple version of PACMAN
 - eat ghosts: 100 points; 
 
 ###### Use [Pyxel](https://github.com/kitao/pyxel) as game engine
-###### Files under directory "pyxel_examples" are offical examples provided by [Pyxel](https://github.com/kitao/pyxel)
