@@ -2,9 +2,9 @@
 
 A simple version of PACMAN
 
-<img src="demo1.jpg" height="50%" width="50%">
-<img src="demo2.jpg" height="50%" width="50%">
-<img src="demo3.jpg" height="50%" width="50%">
+<img src="demo1.gif" height="50%" width="50%">
+<img src="demo2.gif" height="50%" width="50%">
+<img src="demo3.gif" height="50%" width="50%">
 
 ## Key-bind:
 - move left: `←`
